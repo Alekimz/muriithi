@@ -1,0 +1,60 @@
+#pp1
+{
+    color:red;
+}
+
+.p5
+{
+color: aqua;
+}
+
+.P2
+{
+    color: chartreuse; border: 2px solid; background-color: red; padding: 2px; margin: 5px; border-radius: 10px;
+}
+
+.pg2
+{
+    color: cadetblue;
+}
+
+th,tr
+{
+  border: 1px solid black;
+}
+
+th
+{
+    color: black;
+}
+
+
+#cr7
+{
+    color: black;
+}
+
+img
+{
+margin-right: 150px;
+}
+
+#tti
+{
+    border: 1px solid black;
+}
+
+.tti
+{
+    border: 1px solid black;
+}
+
+#roro
+{
+    margin-right: 100px; border: 1px solid black;
+}
+
+#div1
+{
+    background-color: lightgray;
+}
